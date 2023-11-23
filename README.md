@@ -4,5 +4,7 @@ This is a small project i've done when i introduced to the 3N+1 algorithm and fa
 
 
 
-https://github.com/Matankl/3N-1/assets/91688347/1413a17c-fb39-4755-aad7-1d55ebe6e035
+
+
+https://github.com/Matankl/3NPlus1/assets/91688347/32b3d472-4969-42a7-8859-9252ed67a4ab
 
